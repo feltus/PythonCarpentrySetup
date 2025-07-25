@@ -1,9 +1,9 @@
 # PythonCarpentrySetup
 
-## Computational Practice: Learning Python with Software Carpentry: Setup.
+## Computational Practice: Learning Python with Software Carpentry -- Data Setup
 
 ## Background
-The Python programming language provides access to powerful libraries filled with useful functions for data processing.  On Palmetto2, you can use Jupyter Notebooks and the Linux Operating (OS) to run Python or other code. 
+The Python programming language provides access to powerful libraries filled with useful functions for biodata processing.  On Palmetto2, you can use Jupyter Notebooks and the Linux Operating (OS) to run Python or other code. 
 
 In this Learning Path you will navigate the open-source Software Carpentry course on Python.  To get started, you will need to download two datasets into a working directory on Palmetto2 which is the subject of this lab.
 
