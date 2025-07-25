@@ -10,9 +10,9 @@ In this Learning Path you will navigate the open-source Software Carpentry cours
 Then you will be able to follow the Software Carpentry content by opening a Python Jupyter Notebook from the Launcher to the left. You can always use the drop down menu to start a new Launcher or simply open a new Jupyter Notebook.
 
 ## Step A Make a aworking directory on Palmetto2
--Start a JupyterLab node on Palmetto2.
--Open a terminal and create a working directory called 'swc-python'.
--Navigate to the working directory in the by clicking to the directory using the File Explorer on the left.
+- Start a JupyterLab node on Palmetto2.
+- Open a terminal and create a working directory called 'swc-python'.
+- Navigate to the working directory in the by clicking to the directory using the File Explorer on the left.
 
 ## Step B. Download and uncompress two datasets in the working directory using these commands:
 Download and uncompress the datasets using these comamnds:
