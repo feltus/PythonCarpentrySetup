@@ -1,5 +1,3 @@
-# PythonCarpentrySetup
-
 ## Computational Practice: Learning Python with Software Carpentry -- Data Setup
 
 ## Background
